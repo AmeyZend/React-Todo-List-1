@@ -1,3 +1,6 @@
+Preview
+![image](https://github.com/AmeyZend/React-Todo-List-1/assets/123164873/fffaf80e-bd13-4c86-b9f0-67a580bb73e4)
+
 # React TodoList 
 
 this is a very simple todo list application written using React.js
